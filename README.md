@@ -6,7 +6,6 @@ A brief description of your project.
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Code Explaination](#CodeExplaination)
 
 ## Installation
 
@@ -28,7 +27,3 @@ Make sure you have pip installed on your system before running the above command
 
 
 ## Usage
-
-Instructions on how to use your project, including examples and screenshots if applicable.
-
-## Code Explaination
